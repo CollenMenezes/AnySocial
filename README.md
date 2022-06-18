@@ -2,7 +2,7 @@
 ![](https://files.catbox.moe/3nslqw.svg)
 
 # Description 📑
-**AnySocial** it's a osint open source tool based on **Sherlock** that allows you to serach any username and gives you the results if exists. Created with the purpose of training what I've been learning with **Python**! <br> If you made it this far, don't forget to leave your heart ( ❤ ) so that more people can get here. You can se more at: 🔗 <br> Follow me at:
+**AnySocial** it's a osint open source tool based on **Sherlock** that allows you to serach any username and gives you the results if exists. Created with the purpose of training what I've been learning with **Python**! <br> If you made it this far, don't forget to leave your star ( ⭐ ) so that more people can get here. You can se more at: https://github.com/CollenMenezes/AnySocial <br> Follow me at:
 
 
 <lu>
