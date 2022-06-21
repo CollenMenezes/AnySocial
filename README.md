@@ -55,6 +55,14 @@
 </lu>
 
 # Installation 💡
+
+### Requirements:
+
+```python
+pip install -r requirements.txt
+```
+
+
 Open your terminal and execute the following commands:
 
 ```bash
